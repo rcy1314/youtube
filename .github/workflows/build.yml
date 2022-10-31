@@ -26,5 +26,5 @@ jobs:
         with:
           single-commit: true
           git-config-email: <>
-          branch: master
+          branch: gh-pages
           folder: dist
